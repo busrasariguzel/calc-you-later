@@ -31,7 +31,7 @@ function calculate(num1,num2,operation) {
     } else if (operation==='mod') {
     return actualNum1 % actualNum2;}
     else { 
-    return `Sorry, that's not a mathematical operation!`
+    return "Sorry, that's not a mathematical operation!"
     }
 
 } 
