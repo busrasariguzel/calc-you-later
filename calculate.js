@@ -1,3 +1,8 @@
+// const num1= process.argv[2]
+// const operation = process.argv[3];
+// const num2 = process.argv[4];
+
+
 function calculate(num1,num2,operation) {
     const actualNum1 = Number(num1)
     const actualNum2 = Number(num2)
@@ -31,7 +36,7 @@ function calculate(num1,num2,operation) {
 
 } 
 
-
+// console.log(calculate(num1,num2,operation));
 
 
 
